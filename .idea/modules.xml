@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ONVIF-Camera.iml" filepath="$PROJECT_DIR$/ONVIF-Camera.iml" />
       <module fileurl="file://D:\Android\ONVIFCameraAndroid-master\ONVIFCameraAndroid.iml" filepath="D:\Android\ONVIFCameraAndroid-master\ONVIFCameraAndroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ONVIFCameraAndroid-master.iml" filepath="$PROJECT_DIR$/ONVIFCameraAndroid-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/libvlc/libvlc.iml" filepath="$PROJECT_DIR$/libvlc/libvlc.iml" />
       <module fileurl="file://$PROJECT_DIR$/onvifcamera/onvifcamera.iml" filepath="$PROJECT_DIR$/onvifcamera/onvifcamera.iml" />
