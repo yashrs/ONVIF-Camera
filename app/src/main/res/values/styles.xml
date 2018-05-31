@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:editTextStyle">@style/App_EditTextStyle</item>
+        <item name="editTextStyle">@style/App_EditTextStyle</item>
+
+    </style>
+    <style name="App_EditTextStyle" parent="@android:style/Widget.EditText">
+    </style>
+
+</resources>
